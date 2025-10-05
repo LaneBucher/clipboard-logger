@@ -1,0 +1,1 @@
+C:\Users\laneb\clipboard-logger\target\release\clipboard-logger.exe: C:\Users\laneb\clipboard-logger\src\autostart.rs C:\Users\laneb\clipboard-logger\src\clip.rs C:\Users\laneb\clipboard-logger\src\config.rs C:\Users\laneb\clipboard-logger\src\logging.rs C:\Users\laneb\clipboard-logger\src\main.rs

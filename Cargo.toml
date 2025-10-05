@@ -1,0 +1,25 @@
+[package]
+name = "clipboard-logger"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arboard = "3"
+eframe = { version = "0.29", default-features = false, features = ["wgpu"] }
+egui = "0.29"
+rfd = "0.15"
+directories = "5"
+serde = { version = "1", features = ["derive"] }
+toml = "0.8"
+chrono = { version = "0.4", features = ["clock"] }
+parking_lot = "0.12"
+clap = { version = "4", features = ["derive"] }
+single-instance = "0.3"
+
+[target.'cfg(target_os = "windows")'.dependencies]
+winreg = "0.52"
+
+fxhash = "0.2"
+dirs-next = "2"
+
+

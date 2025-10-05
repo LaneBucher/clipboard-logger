@@ -1,0 +1,11 @@
+C:\Users\laneb\clipboard-logger\target\release\deps\litemap-00a328af56ffc36a.d: C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\lib.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\map.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\mod.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\slice_impl.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\vec_impl.rs
+
+C:\Users\laneb\clipboard-logger\target\release\deps\liblitemap-00a328af56ffc36a.rlib: C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\lib.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\map.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\mod.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\slice_impl.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\vec_impl.rs
+
+C:\Users\laneb\clipboard-logger\target\release\deps\liblitemap-00a328af56ffc36a.rmeta: C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\lib.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\map.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\mod.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\slice_impl.rs C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\vec_impl.rs
+
+C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\lib.rs:
+C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\map.rs:
+C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\mod.rs:
+C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\slice_impl.rs:
+C:\Users\laneb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.0\src\store\vec_impl.rs:
